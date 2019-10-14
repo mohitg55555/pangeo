@@ -29,7 +29,7 @@ We envision a collection of related but independent open-source packages that me
 - coverage,
 - continuous integration,
 - comprehensive documentation, and
-- a welcoming and inclusive development culture.
+- a welcoming and inclusive development  culture.
 
 As much as possible, we will build on top of existing solutions and leverage expertise from the broader technology world, including industry.
 
